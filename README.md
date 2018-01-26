@@ -1,4 +1,4 @@
-This Porject is aimed to demonstrate a dancing scene inspired by Be our Guest from the Beauty and the beast Cartoon.
+This Porject aims to demonstrate a dancing scene inspired by Be our Guest from the Beauty and the beast Cartoon.
 
 It's implemented using OPENGL (C++ library) using Ubuntu OS. 
 
