@@ -10,3 +10,5 @@ g++ dancingScene.cpp -lglut -lGL -lGLU -lGLEW  -o choose_name && ./choose_name
 
 Some Pic of the scene: 
 
+![1](https://user-images.githubusercontent.com/22107086/35456502-6c2c2306-02de-11e8-88c7-9723f9751f44.png)
+
