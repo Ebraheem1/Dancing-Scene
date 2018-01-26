@@ -8,6 +8,7 @@
 #include <stdio.h>
 
 //<<Global Variables>>
+
 float cup = 0.0f;
 float foodHolderY = 0.0f;
 float foodHolderAngle = 0.0f;
